@@ -9,4 +9,6 @@ Best use of Anon Aadhaar SDK
 ## Reference to Code/Files
 Log in with Aadhaar: https://github.com/TotalRecallTeam/TotalRecallWeb/blob/main/pages/verify/index.tsx
 
-Solidity verifier: https://github.com/TotalRecallTeam/TotalRecall/blob/smart-contracts/contracts/AnonAadharVerifier.sol
+Solidity verifier: 
+https://github.com/TotalRecallTeam/TotalRecall/blob/smart-contracts/contracts/AnonAadharVerifier.sol
+https://github.com/TotalRecallTeam/Anon-Aadhar-backend
